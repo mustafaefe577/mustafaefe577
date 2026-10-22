@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Efe Düven</h1>
 <h3 align="center">I consistently turn my ideas into projects, often inspired by articles I'm curious about. I like adding my own originality to my code to create new styles, and I share what I build here.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaefe577&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaefe577" /> </p>
-
 - 🔭 I’m currently working on [Veri Yapıları](https://github.com/mustafaefe577/Veri_Yap-lar-.git)
 
 - 🌱 I’m currently learning **SwiftUI**
